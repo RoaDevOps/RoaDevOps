@@ -15,18 +15,19 @@ export default function Home() {
 
       {/* Botones principales */}
       <div className="flex flex-col sm:flex-row gap-6 mt-8">
-        {/* Descargar CV */}
+        {/* Ver CV en Canva */}
         <a
-          href="/cv-roanger.pdf"
-          download
+          href="https://www.canva.com/design/DAGlaOxprSo/bVRdK-ZGiTaDf0C6-4Pw7A/view?utm_content=DAGlaOxprSo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3110300ab4"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-teal-500 hover:bg-teal-600 text-black px-6 py-3 rounded-full text-lg font-semibold transition duration-300 ease-in-out"
         >
-          Descargar CV
+          Ver CV
         </a>
 
         {/* Ir a DevXter */}
         <a
-          href="https://devxter.vercel.app" // <- Cambia este link si es necesario
+          href="https://devxter.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="border-2 border-teal-500 text-teal-400 px-6 py-3 rounded-full text-lg font-semibold hover:bg-teal-500 hover:text-black transition duration-300 ease-in-out"
@@ -45,7 +46,6 @@ export default function Home() {
         <a href="https://linkedin.com/in/roanger" target="_blank" rel="noopener noreferrer">
           <Image src="/linkedin.svg" alt="LinkedIn" width={40} height={40} />
         </a>
-        {/* Agrega más redes sociales si lo deseas */}
       </div>
     </main>
   );
