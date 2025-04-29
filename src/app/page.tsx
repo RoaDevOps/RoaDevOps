@@ -2,50 +2,71 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center px-6 sm:px-12 py-12 gap-8 bg-gray-900 text-white font-sans">
-      {/* Título principal */}
-      <h1 className="text-5xl sm:text-7xl font-bold text-center text-teal-400">
-        Roanger | Arquitecto de Soluciones
-      </h1>
+    <main className="min-h-screen flex flex-col items-center justify-center px-6 sm:px-12 py-12 gap-8 bg-[#27384c] text-white font-sans">
+      {/* Contenedor superior */}
+      <div className="flex items-center gap-4 mb-8">
+        {/* Logo e Información */}
+        <Image src="/logo.png" alt="Logo" width={50} height={50} />
+        <div className="flex flex-col">
+          <h1 className="text-3xl sm:text-5xl font-bold text-white">Roanger Ochoa</h1>
+          <p className="text-lg sm:text-xl text-gray-300">Arquitecto de Soluciones Tecnológicas</p>
+        </div>
+      </div>
 
-      {/* Subtítulo */}
-      <p className="text-center text-lg sm:text-xl max-w-3xl text-gray-300 mt-4">
-        Desarrollando soluciones tecnológicas de vanguardia con un enfoque DevOps y visión futurista.
-      </p>
-
-      {/* Botones principales */}
-      <div className="flex flex-col sm:flex-row gap-6 mt-8">
-        {/* Ver CV en Canva */}
+      {/* Botones sociales */}
+      <div className="flex gap-8 mt-8">
+        {/* LinkedIn */}
         <a
-          href="https://www.canva.com/design/DAGlaOxprSo/bVRdK-ZGiTaDf0C6-4Pw7A/view?utm_content=DAGlaOxprSo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3110300ab4"
+          href="https://www.linkedin.com/in/roangerochoa"
           target="_blank"
           rel="noopener noreferrer"
-          className="bg-teal-500 hover:bg-teal-600 text-black px-6 py-3 rounded-full text-lg font-semibold transition duration-300 ease-in-out"
+          className="bg-[#8B0000] hover:bg-[#AA1616] text-white px-6 py-3 rounded-full text-lg font-semibold transition duration-300 ease-in-out"
         >
-          Ver CV
+          LinkedIn
         </a>
 
-        {/* Ir a DevXter */}
+        {/* WhatsApp */}
         <a
-          href="https://devxter.vercel.app"
+          href="https://wa.me/526243204400"
           target="_blank"
           rel="noopener noreferrer"
-          className="border-2 border-teal-500 text-teal-400 px-6 py-3 rounded-full text-lg font-semibold hover:bg-teal-500 hover:text-black transition duration-300 ease-in-out"
+          className="bg-[#8B0000] hover:bg-[#AA1616] text-white px-6 py-3 rounded-full text-lg font-semibold transition duration-300 ease-in-out"
         >
-          Visitar DevXter
+          Contáctame
+        </a>
+
+        {/* GitHub */}
+        <a
+          href="https://github.com/roanger"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-[#8B0000] hover:bg-[#AA1616] text-white px-6 py-3 rounded-full text-lg font-semibold transition duration-300 ease-in-out"
+        >
+          GitHub
         </a>
       </div>
 
-      {/* Íconos de redes sociales */}
-      <div className="flex gap-8 mt-12">
-        {/* GitHub */}
-        <a href="https://github.com/roanger" target="_blank" rel="noopener noreferrer">
-          <Image src="/github.svg" alt="GitHub" width={40} height={40} />
-        </a>
-        {/* LinkedIn */}
-        <a href="https://linkedin.com/in/roanger" target="_blank" rel="noopener noreferrer">
-          <Image src="/linkedin.svg" alt="LinkedIn" width={40} height={40} />
-        </a>
+      {/* Contenido central */}
+      <div className="flex sm:flex-row flex-col mt-12 gap-8">
+        {/* Lado izquierdo: miniatura CV */}
+        <div className="flex justify-center items-center">
+          <Image
+            src="/cv-thumbnail.jpg" // Esta imagen puedes cambiarla por tu propia miniatura
+            alt="CV Miniatura"
+            width={150}
+            height={200}
+          />
+        </div>
+
+        {/* Lado derecho: Reseña */}
+        <div className="text-center sm:text-left text-gray-300 max-w-lg">
+          <p className="text-lg sm:text-xl">
+            Soy un apasionado de la tecnología con enfoque en soluciones DevOps. A lo largo de los años he trabajado con diversas
+            herramientas y tecnologías que me han permitido ayudar a pequeñas y medianas empresas a implementar soluciones
+            robustas y escalables. Siempre en búsqueda de la vanguardia tecnológica, me esfuerzo por seguir aprendiendo y
+            mejorando continuamente.
+          </p>
+        </div>
       </div>
     </main>
   );
