@@ -1,4 +1,4 @@
-# 💻 RoaDevOps | 🚀 DevOps & Cloud Enthusiast | Data & Software Solutions
+# 💻 RoaDevOps | Cloud & DevOps Enthusiast | Data & Software Solutions
 
 ## 👋 ¡Hola! Soy Roanger  
 Apasionado por la automatización, la nube y el desarrollo eficiente. Me especializo en **DevOps, Cloud Computing y Soluciones de Datos y Software**. Siempre estoy explorando nuevas tecnologías y optimizando procesos para lograr sistemas más escalables y eficientes.
