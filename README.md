@@ -18,7 +18,7 @@ Actualmente preparándome para la certificación AWS Solutions Architect Associa
 
 ## 📌 Proyectos
 
-🔹 **[Sistema de captación de clientes serverless](https://github.com/RoaDevOps/EnkiNet)**  
+🔹 **[Sistema de captación de clientes serverless](https://github.com/RoaDevOps/devxter)**  
 Aplicación web conectada a API Gateway + Lambda que almacena leads en DynamoDB y envía notificaciones automáticas por correo. Arquitectura 100% serverless en AWS.
 
 🔹 **[Resto Stock](https://github.com/RoaDevOps/resto-stock-public)**  
