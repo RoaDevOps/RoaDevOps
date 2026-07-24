@@ -1,47 +1,40 @@
 # 👋 Hola, soy Roanger
 
-Estoy construyendo mi carrera en **Cloud Computing y DevOps** mediante laboratorios prácticos y proyectos reales con **AWS, Linux y Docker**.
+Cloud & DevOps Junior apasionado por Linux, AWS y la automatización. Actualmente construyo laboratorios y proyectos prácticos para fortalecer mis habilidades en infraestructura, cloud computing y DevOps.
 
-🎯 **Objetivo:** Obtener mi primera oportunidad como **Cloud Engineer**, **DevOps Junior** o **Soporte de Infraestructura**.
+🎯 **Objetivo:** Conseguir mi primera oportunidad como Cloud Engineer, DevOps Junior o Soporte de Infraestructura.
 
 ---
 
 # 📂 Proyectos Destacados
 
-## 🚀 Sistema de Captación de Leads Serverless
+### 🚀 Sistema de Captación de Leads Serverless
 
-Aplicación web desarrollada sobre una arquitectura **100% Serverless en AWS** utilizando:
+Aplicación web desplegada en AWS utilizando:
 
 - API Gateway
 - AWS Lambda
 - DynamoDB
 
-La aplicación recibe información desde un formulario web y almacena automáticamente los datos en DynamoDB.
+La aplicación recibe información desde un formulario web y almacena automáticamente los datos en DynamoDB mediante una arquitectura completamente serverless.
 
 🔗 https://github.com/RoaDevOps/devxter
 
 ---
 
-## 🍽️ Resto Stock
 
-Sistema web para la gestión de restaurantes desarrollado con HTML, CSS y JavaScript.
+### 🧪 AWS DevOps Labs
 
-🔗 https://github.com/RoaDevOps/resto-stock2.0
-
----
-
-# 🧪 Laboratorios
-
-Repositorio donde documento mi proceso de aprendizaje mediante laboratorios prácticos y ejemplos reales sobre:
+Repositorio donde documento laboratorios prácticos sobre:
 
 - Linux
 - Bash
-- Git y GitHub
+- Git
 - Docker
 - AWS
 - Networking
-- Terraform *(Próximamente)*
-- Kubernetes *(Próximamente)*
+- Terraform (Próximamente)
+- Kubernetes (Próximamente)
 
 🔗 https://github.com/RoaDevOps/aws-devops-labs
 
@@ -50,10 +43,10 @@ Repositorio donde documento mi proceso de aprendizaje mediante laboratorios prá
 # 🎓 Actualmente estudiando
 
 - AWS Cloud Practitioner
-- Administración de Linux
+- Linux Administration
 - Docker
-- Git y GitHub
-- Fundamentos de Redes
+- Git & GitHub
+- Networking Fundamentals
 
 ---
 
