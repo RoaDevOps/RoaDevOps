@@ -1,4 +1,4 @@
-👋 Hola, soy Roanger
+👋 Hola, soy Roanger Ochoa
 
 Técnico de Soporte TI con experiencia práctica en diagnóstico de sistemas, redes, bases de datos e infraestructura web. Construyo evidencia real a través de proyectos documentados — no solo teoría — mientras avanzo hacia Administración de Sistemas y Cloud.
 
@@ -63,7 +63,7 @@ Repositorio donde documento laboratorios prácticos sobre:
 ## 📬 Contacto
 
 📧 **Correo electrónico:** ochoaponte.r.e@gmail.com
-📧 **Correo electrónico:** POafromu@gmail.com
+📧 **Correo electrónico:** Poafromu@gmail.com
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/roadevops
