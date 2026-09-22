@@ -1,17 +1,20 @@
-# 👋 Hola, soy Roanger
+👋 Hola, soy Roanger
 
-Cloud & DevOps Junior apasionado por Linux, AWS y la automatización. Actualmente construyo laboratorios y proyectos prácticos para fortalecer mis habilidades en infraestructura, cloud computing y DevOps.
+Técnico de Soporte TI con experiencia práctica en diagnóstico de sistemas, redes, bases de datos e infraestructura web. Construyo evidencia real a través de proyectos documentados — no solo teoría — mientras avanzo hacia Administración de Sistemas y Cloud.
 
-🎯 **Objetivo:** Conseguir mi primera oportunidad como Cloud Engineer, DevOps Junior o Soporte de Infraestructura.
+🎯 **Objetivo:** Crecer hacia un rol de Administrador de Sistemas / Cloud Server Administrator, construyendo desde una base sólida de soporte técnico e infraestructura.
 
 ---
 
-# 📂 Proyectos Destacados
+## 📂 Proyectos Destacados
+
+### 🗄️ Práctica de Administración PostgreSQL
+Proyecto documentado de diseño y administración de una base de datos relacional desde Linux: esquema de clientes/pedidos, relaciones 1:N, claves primarias y foráneas, consultas con `WHERE` y `JOIN`, y resolución de un incidente real de secuencia desincronizada.
+
+🔗 https://github.com/RoaDevOps/mccolletpractice
 
 ### 🚀 Sistema de Captación de Leads Serverless
-
 Aplicación web desplegada en AWS utilizando:
-
 - API Gateway
 - AWS Lambda
 - DynamoDB
@@ -20,51 +23,47 @@ La aplicación recibe información desde un formulario web y almacena automátic
 
 🔗 https://github.com/RoaDevOps/devxter
 
----
-
-
-### 🧪 AWS DevOps Labs
-
+### 🧪 Laboratorios de DevOps y AWS
 Repositorio donde documento laboratorios prácticos sobre:
-
 - Linux
-- Bash
 - Git
-- Docker
 - AWS
-- Networking
-- Terraform (Próximamente)
-- Kubernetes (Próximamente)
+- Redes
 
 🔗 https://github.com/RoaDevOps/aws-devops-labs
 
 ---
 
-# 🎓 Actualmente estudiando
+## 🎓 Actualmente estudiando
 
-- AWS Cloud Practitioner
-- Linux Administration
-- Docker
-- Git & GitHub
-- Networking Fundamentals
+- Ingeniería en Sistemas Computacionales (UMOV)
+- LPIC-1 (Linux Professional Institute Certification)
+- PostgreSQL y administración de bases de datos
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+## ✅ Certificaciones
 
-- ☁️ **Cloud:** AWS (IAM, EC2, S3, Lambda, API Gateway, DynamoDB, CloudWatch, CloudTrail)
-- 🐧 **Sistema Operativo:** Linux (Ubuntu)
+- Google IT Support Professional Certificate (completado)
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+- 💻 **Soporte y Sistemas:** Linux (Ubuntu), Windows Server, Active Directory, diagnóstico de sistemas
+- 🌐 **Redes:** TCP/IP, DNS, SSH, diagnóstico con `ss`/logs
+- 🗄️ **Bases de datos:** PostgreSQL, SQL (`SELECT`, `WHERE`, `JOIN`)
+- ☁️ **Nube:** AWS (IAM, EC2, S3, Lambda, API Gateway, DynamoDB, CloudWatch)
 - 🐳 **Contenedores:** Docker
-- 💻 **Desarrollo:** JavaScript, Node.js, HTML, CSS
-- 🗄️ **Bases de datos:** DynamoDB, SQL (básico)
-- 🌿 **Control de versiones:** Git, GitHub
+- 🔧 **Control de versiones:** Git, GitHub
 - 🚀 **Despliegue:** Vercel
 
 ---
 
-# 📫 Contacto
+## 📬 Contacto
 
-📧 **Email:** ochoaponte.r.e@gmail.com
+📧 **Correo electrónico:** ochoaponte.r.e@gmail.com
+📧 **Correo electrónico:** POafromu@gmail.com
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/roadevops
