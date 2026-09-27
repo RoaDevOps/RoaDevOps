@@ -25,10 +25,7 @@ La aplicación recibe información desde un formulario web y almacena automátic
 
 ### 🧪 Laboratorios de DevOps y AWS
 Repositorio donde documento laboratorios prácticos sobre:
-- Linux
-- Git
-- AWS
-- Redes
+- Linux - Git - AWS - Redes
 
 🔗 https://github.com/RoaDevOps/aws-devops-labs
 
